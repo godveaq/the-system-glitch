@@ -134,6 +134,8 @@ MIT License - see LICENSE file for details.
 
 This tool is designed for security professionals and should be used responsibly. Always follow responsible disclosure practices and applicable laws in your jurisdiction.
 
+spoiler: v2 versionu 1 ay sonra çıkıcak. v2 indirmek için: "şuanlık yok"
+
 <img width="1280" height="720" alt="Glitcher - Login 27 12 2025 19_36_52" src="https://github.com/user-attachments/assets/d249d4e1-f953-4776-ad42-20012de10582" />
 
 
@@ -143,5 +145,6 @@ This tool is designed for security professionals and should be used responsibly.
 <img width="1400" height="800" alt="Glitcher - Professional Web Security Testing Platform - User-Agent_ Mozilla_5 0 (X11; Linux x86_64  27 12 2025 19_37_51" src="https://github.com/user-attachments/assets/5efb48a7-d342-45ff-b826-14e2a9d7c106" />
 
 <img width="1400" height="800" alt="Glitcher - Professional Web Security Testing Platform - User-Agent_ Mozilla_5 0 (X11; Linux x86_64  27 12 2025 19_38_30" src="https://github.com/user-attachments/assets/1b5fe1ac-50a2-4ec0-a796-08fbee95512b" />
+
 
 
